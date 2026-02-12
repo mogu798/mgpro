@@ -1,0 +1,10 @@
+{
+  "url": [
+    "ga-bp1mmcaaj9m6yiqa4zewe.aliyunga0017.com",
+    "mgpro.jymgtk.com"
+  ],
+  "rtc": [
+    "turn:192.253.238.60:3478?transport=udp",
+    "turn:rtc.jymgtk.com:3478?transport=udp"
+  ]
+}
